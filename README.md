@@ -23,3 +23,4 @@ Cada Pokémon é exibido em um card na tela, esse card tem sua cor de fundo defi
 
 
 ## :bulb: Tela
+![Capturar](https://user-images.githubusercontent.com/39597791/212412422-3673d860-d928-40cd-8c9c-df7c836f466b.PNG)
